@@ -17,7 +17,9 @@ git commit -m '发布'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f  release-v1.0.0
-git push -f git@github.com:Alexander-lq/learndoc.git release-v1.0.0
+git push -f git@github.com:Alexander-lq/learndoc.git master:page
+
+git push -f git@gitee.com:liu_xian_sen/learndoc.git master:page
 
 cd -
 

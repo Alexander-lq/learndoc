@@ -40,8 +40,9 @@ export const zhNavbar = navbar([
   },
   {
     text: '中间件',
+    prefix: "/zh/zjj/",
     children: [
-      { text: 'redis', link: '/accumulate/' },
+      { text: 'redis', icon: "cache", link: 'redis/' },
       { text: 'kafka', link: '/algorithm/' },
       { text: 'mysql', link: 'http://dubbo.io/' }
     ]

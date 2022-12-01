@@ -14,9 +14,9 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "Alexander-lq/learndoc",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "docs/src",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
